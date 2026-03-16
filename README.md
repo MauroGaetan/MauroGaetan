@@ -10,13 +10,39 @@
 
 ---
 
+# 🚀 Featured Projects
+
+## 🛒 E-commerce API
+
+Backend de comercio electrónico desarrollado con **Node.js y NestJS** para la gestión de usuarios, productos y órdenes.
+
+**Stack:**
+Node.js • NestJS • PostgreSQL • TypeORM • JWT • Swagger • Cloudinary
+
+🔗 Repo
+https://github.com/MauroGaetan/ecommerce-api-nestjs
+
+---
+
+## 🏋️ PowerGym API
+
+Backend para gestión de gimnasios con autenticación de usuarios y manejo de membresías.
+
+**Stack:**
+Node.js • NestJS • PostgreSQL • TypeORM • JWT
+
+🔗 Repo
+https://github.com/PowerGymok/powerGym_Back
+
+---
+
 # 👨‍💻 Sobre mí
 
 Soy desarrollador **Full Stack especializado en Backend**, enfocado en la construcción de **APIs robustas, seguras y escalables**.
 
 Trabajo principalmente con **Node.js y NestJS**, desarrollando arquitecturas backend modulares con **TypeScript, TypeORM y PostgreSQL**, implementando autenticación mediante **JWT** y control de acceso mediante **Guards**.
 
-También tengo experiencia integrando **frontends desarrollados con React y Next.js**, consumiendo APIs REST y conectando aplicaciones completas end-to-end.
+También tengo experiencia integrando **frontends desarrollados con React y Next.js**, consumiendo APIs REST y conectando aplicaciones completas **end-to-end**.
 
 He participado en el desarrollo de proyectos como una **API de e-commerce** y una **plataforma de gestión de gimnasios**, trabajando con **Git, metodologías ágiles y desarrollo colaborativo**.
 
@@ -44,8 +70,6 @@ He participado en el desarrollo de proyectos como una **API de e-commerce** y un
 
 ![Mauro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroGaetan\&theme=github-dark)
 
-
-
 ---
 
 # 🛠 Tecnologías y herramientas
@@ -63,11 +87,11 @@ REST APIs • JWT • Guards • Middleware • CORS
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge\&logo=react\&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge\&logo=css3\&logoColor=white)
 
 Componentes • Consumo de APIs • Responsive Design
 
@@ -100,34 +124,6 @@ Gestión de imágenes • Documentación de APIs • Manejo de archivos • Vari
 
 ---
 
-# 🚀 Proyectos principales
-
-## 🛒 E-commerce API
-
-API backend de comercio electrónico desarrollada con **Node.js y NestJS** para la gestión de usuarios, productos y órdenes.
-
-Stack:
-
-Node.js • NestJS • PostgreSQL • TypeORM • JWT • Swagger • Cloudinary
-
-🔗
-https://github.com/MauroGaetan/ecommerce-api-nestjs
-
----
-
-## 🏋️ PowerGym
-
-Plataforma backend para gestión de gimnasios con autenticación de usuarios y manejo de membresías.
-
-Stack:
-
-Node.js • NestJS • PostgreSQL • TypeORM • JWT
-
-🔗
-https://github.com/PowerGymok/powerGym_Back
-
----
-
 # 📫 Contacto
 
 💼 LinkedIn
@@ -138,5 +134,6 @@ https://github.com/MauroGaetan
 
 📧 Email
 [maurogaetan.dev@gmail.com](mailto:maurogaetan.dev@gmail.com)
+
 
 
