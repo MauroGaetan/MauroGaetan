@@ -44,11 +44,7 @@ He participado en el desarrollo de proyectos como una **API de e-commerce** y un
 
 ![Mauro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroGaetan\&theme=github-dark)
 
----
 
-## 🐍 Contributions Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
