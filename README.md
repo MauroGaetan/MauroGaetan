@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](./banner.png)
 
 # 👋 Hola, soy Mauro Francisco Gaetan
 
