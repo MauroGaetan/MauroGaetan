@@ -26,9 +26,9 @@ También cuento con experiencia trabajando en entornos colaborativos utilizando 
 
 ---
 
-# 💻 Top Languages
+## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan\&layout=compact\&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan&layout=compact&theme=github_dark&include_all_commits=true&count_private=true)
 
 ---
 
