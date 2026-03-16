@@ -48,7 +48,7 @@ He participado en el desarrollo de proyectos como una **API de e-commerce** y un
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/MauroGaetan/MauroGaetan/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/MauroGaetan/MauroGaetan/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
