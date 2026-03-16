@@ -1,8 +1,7 @@
 ![Banner](./banner.png)
 
-# 👋 Hola, soy Mauro Francisco Gaetan
-
-💻 Full Stack Developer especializado en Backend  
+👨‍💻 Backend Developer especializado en Node.js y NestJS
+🚀 Construyendo APIs escalables y seguras
 
 🚀 Node.js | NestJS | TypeScript | PostgreSQL
 
