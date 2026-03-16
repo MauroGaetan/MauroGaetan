@@ -1,22 +1,24 @@
 ![Banner](./banner.png)
 
+![](https://komarev.com/ghpvc/?username=MauroGaetan\&color=2ea043\&style=for-the-badge)
+
 # 👨‍💻 Mauro Francisco Gaetan
 
 ### Full Stack Developer especializado en Backend
 
-🚀 Construyendo **APIs escalables, seguras y bien estructuradas** utilizando **Node.js, NestJS y PostgreSQL**.
+🚀 Construyendo **APIs escalables, seguras y bien estructuradas** utilizando **Node.js, NestJS y PostgreSQL**, con experiencia integrando **frontends en React y Next.js**.
 
 ---
 
 # 👨‍💻 Sobre mí
 
-Soy desarrollador **Full Stack con especialización en backend** utilizando **Node.js y NestJS**.
+Soy desarrollador **Full Stack especializado en Backend**, enfocado en la construcción de **APIs robustas, seguras y escalables**.
 
-Tengo experiencia construyendo **APIs REST seguras y escalables**, implementando autenticación con **JWT**, manejo de bases de datos relacionales con **PostgreSQL** y arquitectura modular utilizando **TypeORM**.
+Trabajo principalmente con **Node.js y NestJS**, desarrollando arquitecturas backend modulares con **TypeScript, TypeORM y PostgreSQL**, implementando autenticación mediante **JWT** y control de acceso mediante **Guards**.
 
-He trabajado en proyectos como una **API de e-commerce** y una **plataforma de gestión de gimnasios**, integrando servicios externos, manejo de archivos y documentación de APIs.
+También tengo experiencia integrando **frontends desarrollados con React y Next.js**, consumiendo APIs REST y conectando aplicaciones completas end-to-end.
 
-También cuento con experiencia trabajando en entornos colaborativos utilizando **Git y metodologías ágiles como Scrum**.
+He participado en el desarrollo de proyectos como una **API de e-commerce** y una **plataforma de gestión de gimnasios**, trabajando con **Git, metodologías ágiles y desarrollo colaborativo**.
 
 ---
 
@@ -26,9 +28,9 @@ También cuento con experiencia trabajando en entornos colaborativos utilizando 
 
 ---
 
-## 💻 Top Languages
+# 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan&layout=compact&theme=github_dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan\&layout=compact\&theme=github_dark\&include_all_commits=true\&count_private=true)
 
 ---
 
@@ -44,6 +46,12 @@ También cuento con experiencia trabajando en entornos colaborativos utilizando 
 
 ---
 
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/MauroGaetan/MauroGaetan/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 # 🛠 Tecnologías y herramientas
 
 ## Backend
@@ -54,6 +62,18 @@ También cuento con experiencia trabajando en entornos colaborativos utilizando 
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 REST APIs • JWT • Guards • Middleware • CORS
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-61dbfb?style=for-the-badge\&logo=react\&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge\&logo=css3\&logoColor=white)
+
+Componentes • Consumo de APIs • Responsive Design
 
 ---
 
@@ -122,4 +142,5 @@ https://github.com/MauroGaetan
 
 📧 Email
 [maurogaetan.dev@gmail.com](mailto:maurogaetan.dev@gmail.com)
+
 
