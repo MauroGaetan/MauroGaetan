@@ -49,14 +49,13 @@ He participado en el desarrollo de proyectos como una **API de e-commerce** y un
 ---
 
 # 📊 GitHub Stats
-
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroGaetan\&show_icons=true\&theme=github_dark)
+![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroGaetan&show_icons=true&theme=github_dark)
 
 ---
 
 # 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan\&layout=compact\&theme=github_dark\&include_all_commits=true\&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan&layout=compact&theme=github_dark&include_all_commits=true&count_private=true)
 
 ---
 
