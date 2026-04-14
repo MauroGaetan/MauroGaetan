@@ -16,7 +16,7 @@
 
 Backend de comercio electrónico desarrollado con **Node.js y NestJS** para la gestión de usuarios, productos y órdenes.
 
-**Stack:**
+**Stack:**  
 Node.js • NestJS • PostgreSQL • TypeORM • JWT • Swagger • Cloudinary
 
 🔗 Repo  
@@ -28,7 +28,7 @@ https://github.com/MauroGaetan/ecommerce-api-nestjs
 
 Backend para gestión de gimnasios con autenticación de usuarios y manejo de membresías.
 
-**Stack:**
+**Stack:**  
 Node.js • NestJS • PostgreSQL • TypeORM • JWT
 
 🔗 Repo  
@@ -45,18 +45,6 @@ Trabajo principalmente con **Node.js y NestJS**, desarrollando arquitecturas bac
 También tengo experiencia integrando **frontends desarrollados con React y Next.js**, consumiendo APIs REST y conectando aplicaciones completas **end-to-end**.
 
 He participado en el desarrollo de proyectos como una **API de e-commerce** y una **plataforma de gestión de gimnasios**, trabajando con **Git, metodologías ágiles y desarrollo colaborativo**.
-
----
-
-# 📊 GitHub Stats
-
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauroGaetan&show_icons=true&theme=github_dark)
-
----
-
-# 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauroGaetan&layout=compact&theme=github_dark&include_all_commits=true&count_private=true)
 
 ---
 
