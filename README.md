@@ -12,6 +12,18 @@
 
 # 🚀 Featured Projects
 
+## Kurve App
+
+Plataforma interna de gestion de clientes y horas para una agencia, desarrollada como Backend Developer Intern. Sistema de roles y permisos, carga y correccion de horas, notificaciones automaticas y politicas de seguridad a nivel de base de datos.
+
+**Stack:**
+Next.js - Supabase - PostgreSQL - TypeScript - Resend - Twilio
+
+Repo
+https://github.com/kurvedevelops/kurve-app
+
+---
+
 ## 🛒 E-commerce API
 
 Backend de comercio electrónico desarrollado con **Node.js y NestJS** para la gestión de usuarios, productos y órdenes.
